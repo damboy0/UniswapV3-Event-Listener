@@ -17,11 +17,11 @@ Before you begin, ensure you have met the following requirements:
     git clone https://github.com/Brogramerr/UniswapV3-Event-Listener.git
     ```
 
-2. Start your MongoDB Server.
+2. Start your MongoDB Server:
 
-```mongod
-
-```
+    ```bash
+    mongod
+    ```
 
 3. Restore Packages:
 
