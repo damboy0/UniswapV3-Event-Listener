@@ -19,6 +19,10 @@ Before you begin, ensure you have met the following requirements:
 
 2. Start your MongoDB Server.
 
+```mongod
+
+```
+
 3. Restore Packages:
 
     ```bash
