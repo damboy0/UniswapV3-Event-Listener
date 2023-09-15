@@ -38,8 +38,8 @@ async function main() {
             .on("error", (error) => {
                 console.error("Error:", error)
             })
-    } catch (err) {
-        console.error("Error:", err)
+    } catch (errr) {
+        console.error("Error:", errr)
     }
 }
 
