@@ -3,7 +3,7 @@ const { MongoClient } = require("mongodb")
 require("dotenv").config()
 
 const POOL_CONTRACT_ADDRESS = process.env.POOL_CONTRACT_ADDRESS
-//const ETHEREUM_NODE_URL = process.env.ETHEREUM_NODE_URL
+//const ETHEREUM_NODE_URL = process.env.ETHEREUM_NODE_UR
 const ETHEREUM_NODE_URL = "wss://eth-mainnet.g.alchemy.com/v2/YOUR-API-KEY"
 
 if (!ETHEREUM_NODE_URL) {
